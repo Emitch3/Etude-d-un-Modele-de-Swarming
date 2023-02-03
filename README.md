@@ -1,1 +1,1 @@
-# -tude-d-un-mod-le-de-swarming
+# Étude d’un modèle de swarming
